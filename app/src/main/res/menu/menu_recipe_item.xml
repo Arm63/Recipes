@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_recipe_edit"
+        android:icon="@drawable/ic_edit_white"
+        android:title="Edit"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_recipe_done"
+        android:icon="@drawable/ic_done_white"
+        android:title="Done"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_recipe_favorite"
+        android:icon="@drawable/ic_unfavorite"
+        android:title="UnFavorite"
+        app:showAsAction="always" />
+
+
+</menu>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Recipes</string>
+
+    <!--Util-->
+    <string name="msg_network_connection_error">No Internet connection</string>
+    <string name="msg_page_not_found">404 Page not found</string>
+    <string name="msg_unknown_error">Unknown error</string>
+    <string name="msg_bad_request">Bad request</string>
+    <string name="msg_not_authorized">User not authorized</string>
+    <string name="msg_connection_error">Connection error</string>
+    <string name="msg_navigation_drawer_open">Open navigation drawer</string>
+    <string name="msg_navigation_drawer_close">Close navigation drawer</string>
+    <string name="msg_some_error">Something went wrong, please try again</string>
+    <string name="msg_no_favorites">No favorite recipes</string>
+
+    <!--Navigation drawer menu items-->
+    <string name="text_recipe_list">Recipe List</string>
+    <string name="text_about">About</string>
+    <string name="text_favorite_recipes">Favorites</string>
+    <string name="text_recipe_vp">Recipe vp</string>
+    <string name="text_logout">Logout</string>
+
+    <!--Dialog-->
+    <string name="text_btn_dialog_cancel">Cancel</string>
+    <string name="text_btn_dialog_delete">Delete</string>
+    <string name="text_btn_dialog_ok">OK</string>
+    <string name="text_btn_dialog_yes">Yes</string>
+    <string name="text_btn_dialog_no">No</string>
+    <string name="msg_dialog_delete_recipe">Are you sure to delete this item?</string>
+    <string name="msg_dialog_add_recipe">Are you sure to add this item?</string>
+
+    <!--Toolbar titles-->
+    <string name="text_add_recipe">Add recipe</string>
+    <string name="text_recipe">recipe</string>
+
+    <!--Add recipe screen strings-->
+    <string name="hint_edt_add_recipe_title">Title</string>
+    <string name="hint_edt_add_recipe_price">Price</string>
+    <string name="hint_edt_add_recipe_desc">Description</string>
+    <string name="text_btn_add_recipe_add">Add</string>
+
+
+    <!--recipe screen strings-->
+    <string name="hint_edt_recipe_title">Title</string>
+    <string name="hint_edt_recipe_price">Price</string>
+    <string name="hint_edt_recipe_desc">Description</string>
+
+    <!--Auth screen strings-->
+    <string name="text_btn_auth_sign">Login</string>
+    <string name="hint_text_auth_email">Email</string>
+    <string name="hint_text_auth_pass">Password</string>
+
+    <!--Edt errors-->
+    <string name="msg_edt_mail_error">Enter email</string>
+    <string name="msg_edt_pass_error">Enter password</string>
+    <string name="msg_edt_title_error">Title can not be empty</string>
+    <string name="msg_edt_price_error">Price can not be empty</string>
+
+    <!--Notification strings-->
+    <string name="notification_add">Added</string>
+    <string name="notification_update">Updated</string>
+    <string name="sorted">Sorted</string>
+    <string name="search">Search</string>
+
+</resources>

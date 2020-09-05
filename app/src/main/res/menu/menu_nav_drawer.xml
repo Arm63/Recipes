@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/mesnasdasdu_top"
+        android:checkableBehavior="single"
+        android:visible="true">
+        <item
+            android:id="@+id/nav_recipe_list"
+            android:icon="@drawable/ic_drawer_arrow"
+            android:title="@string/text_recipe_list" />
+        <item
+            android:id="@+id/nav_fv_list"
+            android:icon="@drawable/ic_drawer_arrow"
+            android:title="@string/text_favorite_recipes" />
+
+    </group>
+
+</menu>
